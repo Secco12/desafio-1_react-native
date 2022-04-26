@@ -1,5 +1,5 @@
 {
-  "name": "desafio-1_react-native",
+  "name": "desafio1_reactnative-master",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -36,7 +36,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Secco12/desafio-1_react-native.git"
+    "url": "git+https://github.com/Secco12/desafio1_reactnative-master.git"
   },
   "keywords": [
     "react",
@@ -45,8 +45,8 @@
   "author": "Fernando Secco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Secco12/desafio-1_react-native/issues"
+    "url": "https://github.com/Secco12/desafio1_reactnative-master/issues"
   },
-  "homepage": "https://github.com/Secco12/desafio-1_react-native#readme",
+  "homepage": "https://github.com/Secco12/desafio1_reactnative-master#readme",
   "description": ""
 }
